@@ -1,0 +1,25 @@
+body {
+    height: 95vh;
+}
+
+.fotos {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.image1 {
+    background-size: cover;
+    background-position: center;
+    width: 60vw;
+    height: 60vh;
+    background-image: url(playa.jpg);
+}
+
+.image2 {
+    background-size: cover;
+    background-position: center;
+    width: 60vw;
+    height: 60vh;
+    background-image: url(lobo.JPG);
+}
